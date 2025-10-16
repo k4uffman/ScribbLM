@@ -198,9 +198,3 @@ export default function WhiteboardPage() {
   );
 }
 ```
-
-## Next Steps
-
-I am currently exploring potential institutional partnerships for ScribbLM. I am also actively seeking full-time roles where I can apply my experience in building and deploying end-to-end AI solutions.
-
-**For a detailed discussion or a live code walkthrough, please contact me at kauffmand12@gmail.com.**
